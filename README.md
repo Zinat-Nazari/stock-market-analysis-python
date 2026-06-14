@@ -20,4 +20,4 @@ It calculates stock returns and volatility and compares the performance of multi
 No real market data (e.g., Yahoo Finance) is used.
 ---
 ## 📊 Example Output
-(Add your charts here)
+![Stock Price Chart](images/chart.png)
